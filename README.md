@@ -91,10 +91,10 @@ To install and run TrashDash Vision, follow these steps:
 - **Pillow**: Python Imaging Library for image processing.
 
  ## Team Members
-Maria Hallak (B00804339)
-Nishtha Khurana (B00805298)
-Joseph Panijel (B00811841)
-Irene Sunny (B00798876)
+Maria Hallak (B00804339), 
+Nishtha Khurana (B00805298), 
+Joseph Panijel (B00811841), 
+Irene Sunny (B00798876), 
 Roshan Velpula (B00802760)
 
 
