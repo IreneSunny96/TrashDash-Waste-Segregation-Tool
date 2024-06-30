@@ -1,5 +1,5 @@
 # Context
-As part of the Advanced I course in the DSBA program, we were tasked with developing an innovative AI-based solution. This involved identifying a market need and proposing how AI can effectively address this need. Through this project, we aimed to leverage AI to create a practical solution that meets a real-world demand. This led to the creation of TrashDash, our AI-powered waste management system designed to enhance recycling rates and sustainability.
+As part of the Advanced AI course in the DSBA program, we were tasked with developing an innovative AI-based solution. This involved identifying a market need and proposing how AI can effectively address this need. Through this project, we aimed to leverage AI to create a practical solution that meets a real-world demand. This led to the creation of TrashDash, our AI-powered waste management system designed to enhance recycling rates and sustainability.
 
 # TrashDash 
 TrashDash is an innovative application designed to help users identify recyclable and non-recyclable objects using AI-powered image recognition. This application leverages advanced AI models to analyze images and provide detailed information about the recyclability of various objects. Additionally, it can detect available trash bins from uploaded images, making waste management more efficient and environmentally friendly.
@@ -17,7 +17,9 @@ TrashDash is an innovative application designed to help users identify recyclabl
 
 ## Introduction
 
-In today's world, waste management is a critical issue. Properly sorting and recycling waste can significantly reduce environmental impact. However, identifying what can and cannot be recycled can be challenging. TrashDash Vision aims to simplify this process by using AI to analyze images of waste items and provide instant feedback on their recyclability. Additionally, the app can detect and categorize available trash bins from images, further aiding in effective waste management.
+In response to the growing waste management challenges in urban areas, we developed TrashDash as part of our Advanced I course in the DSBA program. TrashDash is an innovative AI-powered waste management solution designed to address the inefficiencies in current waste sorting systems. By leveraging advanced AI and data analytics, TrashDash analyzes images of waste items and provide instant feedback on their recyclability. Additionally, the app can detect and categorize available trash bins from images, further aiding in effective waste management. This ensures accurate waste sorting, reduced contamination, and enhanced recycling rates.
+
+Our solution aims to tackle the pressing issue of improper waste disposal that leads to significant environmental impacts. With real-time data insights and user-friendly interfaces, TrashDash not only improves operational efficiency but also engages and educates users on sustainable waste practices. By focusing on high-impact areas like the Golden Triangle and La Défense in Paris, we aim to demonstrate the effectiveness of TrashDash in transforming urban waste management and contributing to a cleaner, more sustainable city.
 
 ## Features
 
@@ -87,5 +89,12 @@ To install and run TrashDash Vision, follow these steps:
 - **OpenAI API**: Used for AI-powered image recognition and classification.
 - **YOLO (You Only Look Once)**: A real-time object detection system.
 - **Pillow**: Python Imaging Library for image processing.
+
+ ## Team Members
+Maria Hallak (B00804339)
+Nishtha Khurana (B00805298)
+Joseph Panijel (B00811841)
+Irene Sunny (B00798876)
+Roshan Velpula (B00802760)
 
 
